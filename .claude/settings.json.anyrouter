@@ -1,0 +1,10 @@
+{
+  "env": {
+    //agentrouter
+    "ANTHROPIC_AUTH_TOKEN": "sk-3gQZBrQuT83AtffbL3Etgu7UwFz30DSa61kNcMf0bXsj7oL3",
+    "ANTHROPIC_API_KEY": "sk-3gQZBrQuT83AtffbL3Etgu7UwFz30DSa61kNcMf0bXsj7oL3",
+    "ANTHROPIC_BASE_URL": "https://agentrouter.org/"
+    // "ANTHROPIC_AUTH_TOKEN": "sk-cWuPJABbMvedo0PFI5BeshiWk6wOBundfSDd1EpUsaWdETyh",
+    // "ANTHROPIC_BASE_URL": "https://pmpjfbhq.cn-nb1.rainapp.top"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "env": {
+    "1ANTHROPIC_AUTH_TOKEN": "sk-D0xejuI8FcMSpy7N0NIvwmVkItXNLAjV5Ja3RHO6qrszWPKM",
+    "1ANTHROPIC_BASE_URL": "https://api.codemirror.codes",
+    "3ANTHROPIC_AUTH_TOKEN": "ms-681a2826-08b8-4c7b-90f5-40873bee39f0",
+    "3ANTHROPIC_BASE_URL": "https://api-inference.modelscope.cn",
+    "ffANTHROPIC_BASE_URL": "https://c.cspok.cn",
+    "ANTHROPIC_AUTH_TOKEN": "sk-jDgEGPOW648mVRyHtYCgeOvrtew6uPMGBqxPaZ4GnzokM0Ud",
+    "ANTHROPIC_BASE_URL": "http://192.168.0.191:3200",
+
+    "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1"
+  }
+}
